@@ -1,8 +1,5 @@
 ##  Bank Loan Prediction System using Streamlit 
 
-## [Watch Tutorial for this project](https://youtu.be/j54AZjqmCjI)
-<img src="https://github.com/Spidy20/Streamlit_Bank_Loan_Prediction/blob/master/yt_thumbnai.jpg">
-
 ## Usage:-
 
 - Clone my repository.
